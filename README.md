@@ -1,7 +1,6 @@
 # @hawk.so/nuxt
 
 [![npm version][npm-version-src]][npm-version-href]
-[![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
 [Hawk](https://hawk.so) error tracker integration for Nuxt app
@@ -63,6 +62,11 @@ export default defineNuxtConfig({
 })
 ```
 
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+See the [LICENSE](./LICENSE) file for the full text.
+
 ## Contribution
 
 <details>
@@ -100,9 +104,6 @@ export default defineNuxtConfig({
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/@hawk.so/nuxt/latest.svg?style=flat&colorA=020420&colorB=00DC82
 [npm-version-href]: https://npmjs.com/package/@hawk.so/nuxt
-
-[license-src]: https://img.shields.io/npm/l/@hawk.so/nuxt.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/@hawk.so/nuxt
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
